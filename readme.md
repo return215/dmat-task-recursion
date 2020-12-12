@@ -8,7 +8,7 @@ Kelas: "C"
 
 Soal yang diberikan diambil dari buku "Discrete Mathematics and Its Applications"
 oleh Kenneth H. Rosen. Berikut diberikan penjelasan terkait soal-soal tersebut.
-Kode sumber untuk tiap soal terlampir dalam arsip (folder/zip/git repo) ini.
+Kode sumber untuk tiap soal terlampir dalam [arsip (folder/zip/git repo) ini](https://github.com/return215/dmat-task-recursion).
 
 ## 10. Max of an array
 
