@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "c",
+        "string_view": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "initializer_list": "c",
+        "limits": "c",
+        "type_traits": "c",
+        "string.h": "c",
+        "algorithm": "cpp",
+        "stack": "cpp",
+        "map": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp"
+    }
+}
